@@ -59,7 +59,7 @@ someFunctionA(): void;
 
 `void`
 
-Defined in:  bar.ts:2
+Defined in:  [bar.ts:2](https://github.com/tgreyuk/typedoc-plugin-markdown-module-exports-example/blob/70e2259/src/bar.ts#L2)
 
 ---
 
@@ -75,4 +75,4 @@ someFunctionB(): void;
 
 `void`
 
-Defined in:  bar.ts:3
+Defined in:  [bar.ts:3](https://github.com/tgreyuk/typedoc-plugin-markdown-module-exports-example/blob/70e2259/src/bar.ts#L3)
