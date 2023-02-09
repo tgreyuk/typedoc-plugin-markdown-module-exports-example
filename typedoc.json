@@ -1,0 +1,7 @@
+{
+  "entryPoints": ["./src/foo.ts", "./src/bar.ts", "./src/baz.ts"],
+  "tsconfig": "./tsconfig.json",
+  "githubPages": false,
+  "readme": "none",
+  "symbolsWithOwnFile": "none"
+}

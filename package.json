@@ -1,0 +1,22 @@
+{
+  "name": "typedoc-plugin-markdown-module-exports-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "docs": "typedoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgreyuk/typedoc-plugin-markdown-module-exports-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgreyuk/typedoc-plugin-markdown-module-exports-example/issues"
+  },
+  "homepage": "https://github.com/tgreyuk/typedoc-plugin-markdown-module-exports-example#readme",
+  "devDependencies": {
+    "typedoc": "^0.23.24",
+    "typedoc-plugin-markdown": "^4.0.0-next.3"
+  }
+}
